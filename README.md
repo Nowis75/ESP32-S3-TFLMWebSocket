@@ -15,8 +15,6 @@ Implementation details such as image downsampling, normalization for the quantiz
 
 ---
 
-# Appendix • Detailed Guide (English)
-
 ## Overview
 
 ESP32-S3-TFlowLiteMicroWebSocket is an edge‑AI reference showcasing a complete camera → inference → visualization pipeline on ESP32‑S3:
