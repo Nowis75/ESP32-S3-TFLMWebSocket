@@ -13,7 +13,7 @@ Implementation details such as image downsampling, normalization for the quantiz
   <img src="images/ascii_view.png" width="600" alt="Ascii output"><br> ASCII representation of the real-time detection output
 </p>
 <p align="center">
-  <img src="images/real_view.png" width="600" alt="Real stream output"><br>Stream output with centroids overlaid
+  <img src="images/real_view.png" width="600" alt="Real stream output"><br>Stream output with centroids overlay
 </p>
 
 ---
