@@ -1,4 +1,4 @@
-# Optimized Edge AI system for real-time visualization of FOMO object detection 
+# Optimized embedded Edge-AI pipeline for real-time FOMO object detection and visualization on ESP32-S3 
 
 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
